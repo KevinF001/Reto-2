@@ -1,5 +1,5 @@
 # Reto-2
-# Tienda online de Tecnologia
+# Tienda online de Tecnologia: UML
 ```mermaid
 classDiagram
     class Tienda{
