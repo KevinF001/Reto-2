@@ -1,5 +1,5 @@
-# Reto-2
-# Tienda online de Tecnologia: UML
+# Reto - Dos
+# Tienda online internacional de Tecnologia: UML
 ```mermaid
 classDiagram
     class Tienda{
