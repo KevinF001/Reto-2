@@ -1,4 +1,4 @@
-# Reto - Dos
+# Reto-dos
 # Tienda online internacional de Tecnologia: UML
 ```mermaid
 classDiagram
